@@ -7013,7 +7013,7 @@ div.ppt {
   padding: 6px 6px;
   background: #EEF2F6;
   color: #5E6271;
-  display: inline-flex;
+  display: inherit;
 }
 
 .w3l-timeline-content-6 .timeline-content-6 .desc {
@@ -7651,7 +7651,7 @@ div.ppt {
 
 .w3l-contact-main ul.address.two {
   display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
+  grid-template-columns: 1fr 2fr 1fr;
   margin-top: 50px;
   grid-gap: 10px;
 }
