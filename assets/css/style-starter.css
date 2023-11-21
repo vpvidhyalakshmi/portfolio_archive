@@ -7013,7 +7013,7 @@ div.ppt {
   padding: 6px 6px;
   background: #EEF2F6;
   color: #5E6271;
-  display: none;
+  display: inline-flex;
 }
 
 .w3l-timeline-content-6 .timeline-content-6 .desc {
@@ -7653,7 +7653,7 @@ div.ppt {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   margin-top: 50px;
-  grid-gap: 20px;
+  grid-gap: 10px;
 }
 
 .w3l-contact-main .cont-details h6 a {
