@@ -7013,7 +7013,7 @@ div.ppt {
   padding: 6px 6px;
   background: #EEF2F6;
   color: #5E6271;
-  display: inherit;
+  display: none;
 }
 
 .w3l-timeline-content-6 .timeline-content-6 .desc {
