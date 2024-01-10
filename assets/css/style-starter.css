@@ -8372,7 +8372,7 @@ mark,
 }
 
 .img-customized {
-  max-width: 600px;
+  max-width: 50%;
   height: auto;
 }
 
@@ -8397,6 +8397,15 @@ mark,
 .figure-caption {
   font-size: 90%;
   color: #6c757d;
+}
+
+/* for index page */
+.square-container {
+  width: 80%; /* Adjust as needed */
+  margin: 0 auto;
+  background-color: #f2f2f2; /* Background color for the square container */
+  padding: 20px; /* Adjust padding as needed */
+  text-align: left; /* Align text to the left within the container */
 }
 
 code {
