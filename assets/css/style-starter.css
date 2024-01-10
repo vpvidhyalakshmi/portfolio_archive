@@ -8400,12 +8400,17 @@ mark,
 }
 
 /* for index page */
+.img-and-text-container {
+  display: flex;
+  justify-content: center;
+}
+
 .square-container {
-  display: inline-block;
   width: 400px;
-  background-color: #f2f2f2; /* Background color for the square container */
-  padding: 20px; /* Adjust padding as needed */
-  text-align: left; /* Align text to the left within the container */
+  background-color: #f2f2f2; 
+  padding: 20px; 
+  text-align: left; 
+  max-width: calc(100% - 20px);
 }
 
 code {
