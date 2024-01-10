@@ -27,6 +27,7 @@ body p {
   line-height: 26px;
   font-weight: 400;
   font-size: 15px;
+  text-align: justify;
 }
 
 ol,
@@ -81,10 +82,10 @@ span.dot-1 {
 }
 
 .read-more a {
-  color: #c2b313;
+  color: #ff5959;
   font-weight: 700;
   font-size: 16px;
-  margin-right: 20px;
+  margin-right: 40px;
 }
 
 .read-more a:hover {
