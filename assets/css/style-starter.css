@@ -8413,6 +8413,10 @@ mark,
   max-width: calc(100% - 20px);
 }
 
+.square-container p {
+  text-align: justify; /* Apply text justification to paragraphs */
+}
+
 code {
   font-size: 87.5%;
   color: #e83e8c;
