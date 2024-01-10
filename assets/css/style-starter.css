@@ -8408,7 +8408,7 @@ mark,
 .square-container {
   width: 400px;
   background-color: #fdfdfd; 
-  padding: 20px; 
+  padding: 40px; 
   text-align: justify; 
   max-width: calc(100% - 20px);
 }
