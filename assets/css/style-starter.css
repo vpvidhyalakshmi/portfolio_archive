@@ -8403,8 +8403,6 @@ mark,
 .img-and-text-container {
   display: flex;
   justify-content: center;
-  flex-direction: column; /* Align items in a column */
-  align-items: center;
 }
 
 .square-container {
