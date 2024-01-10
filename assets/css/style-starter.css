@@ -8409,13 +8409,10 @@ mark,
   width: 400px;
   background-color: #f2f2f2; 
   padding: 20px; 
-  text-align: left; 
+  text-align: justify; 
   max-width: calc(100% - 20px);
 }
 
-.square-container p {
-  text-align: justify; /* Apply text justification to paragraphs */
-}
 
 code {
   font-size: 87.5%;
