@@ -8439,9 +8439,14 @@ mark,
   margin-top: 30px;
 }
 
-.right-image-post p,
+.right-image-post p {
+  margin-top: 20px;
+
+}
+
 .left-image-post p {
   margin-top: 20px;
+  margin-left: 10px;
 }
 
 .right-image-post .white-button,
