@@ -8432,6 +8432,7 @@ mark,
 .left-image img,
 .right-image img {
   border-radius: 5px;
+  margin: 0px;
 }
 
 .right-image-post h4,
