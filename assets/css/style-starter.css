@@ -8457,9 +8457,18 @@ mark,
   color: #555; /* Adjust color as needed */
 }
 
-.timeline, .tags {
+.timeline {
   margin-right: 10px;
-  
+  font-style: italic; /* Added to make timeline in italics */
+}
+
+.tags {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #3498db; /* Change background color as needed */
+  color: #fff; /* Adjust text color as needed */
+  border-radius: 5px;
+  margin-right: 5px;
 }
 
 /* Buttons */
